@@ -50,5 +50,18 @@
     "location": "Ceilândia, DF",
     "price_range": "R$ 100 - R$ 200",
     "title": "Finjo ser sua waifu"
+  },
+  {
+    "availability_hours": "Tardes (12h às 18h)",
+    "avatar_url": "https://avatars.githubusercontent.com/wendelcfraga",
+    "category": "Presencial",
+    "contact_telegram": "gatopirata",
+    "contact_whatsapp": "(62) 99462-3994",
+    "description": "Se você é muito estranho etc. Finjo ser seu amigo pra sua familia",
+    "github_username": "wendelcfraga",
+    "id": "b5b159b9-58ba-4be4-9927-14df8d624402",
+    "location": "Rio Branco, AC",
+    "price_range": "R$ 50 - R$ 100",
+    "title": "Finjo ser seu amigo"
   }
 ]
